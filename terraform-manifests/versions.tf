@@ -16,9 +16,10 @@ terraform {
     }
   }
 
-  backend "azurerm" {
-    
-  }
+  #backend "azurerm" {
+  #  
+  #}
+
 }
 
 # Provider Block
